@@ -1,0 +1,27 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container{
+    padding: 40px 40px 0px 40px;
+}
+
+.categories{
+    font-weight: bold
+}
+
+.gallery{
+    font-size: smaller;
+    color: rgb(76, 72, 72);
+    margin-bottom: 2px;
+}
+
+.hr{
+    height: 1px;
+    border: none;
+    background-color: #e0e0e0;
+}
+
+.expenses{
+    font-weight: bold;
+}

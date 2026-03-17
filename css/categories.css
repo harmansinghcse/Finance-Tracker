@@ -1,0 +1,9 @@
+.category_span{
+    display: inline-block;
+}
+
+.category_span button{
+    height: 36px;
+    background-color: white;
+    border: none;
+}
